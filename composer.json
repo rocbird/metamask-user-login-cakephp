@@ -12,7 +12,8 @@
         "firebase/php-jwt": "^6.0",
         "kornrunner/keccak": "^1.1",
         "mobiledetect/mobiledetectlib": "^2.8",
-        "simplito/elliptic-php": "^1.0"
+        "simplito/elliptic-php": "^1.0",
+        "web3p/web3.php": "dev-master"
     },
     "require-dev": {
         "cakephp/bake": "^2.6",
